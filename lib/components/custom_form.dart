@@ -1,6 +1,7 @@
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:validators/validators.dart';
 import '../size.dart';
 import 'custom_text_form_field.dart';
 
